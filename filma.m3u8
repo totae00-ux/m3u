@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-https://love.pifipa2974.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8
+http://185.243.7.195:80/play/live.php?mac=00:1A:79:65:D2:B9&stream=387394&extension=m3u8
+#https://love.pifipa2974.workers.dev/lx-origin/sd-filmasia_720/chunks.m3u8
 #http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776052&extension=m3u8
 #http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=115665&extension=m3u8
