@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
-http://45.139.122.199:2095/ujs9Mzxf/jYWkDb7/115758
+http://technologycloud.eu:80/play/live.php?mac=00:1B:79:3D:27:31&stream=1660493&extension=m3u8
 #http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776145&extension=m3u8
 #http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=115759&extension=m3u8
 #http://195.128.27.141:80/play/live.php?mac=00:1A:79:59:83:B5&stream=1776145&extension=m3u8
